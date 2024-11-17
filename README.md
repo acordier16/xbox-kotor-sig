@@ -17,5 +17,5 @@ The script will then use your specified input save folder to compute the sig fil
 
 ## More information on Xbox and KOTOR saves
 
-For more information, check out my [blog post on the topic]().
+For more information, check out my [blog post on the topic](https://acordier.org/posts/xbox-kotor-saves-signing/).
 
